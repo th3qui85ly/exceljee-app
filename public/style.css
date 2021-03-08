@@ -1,0 +1,16 @@
+#courses{
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+.carousel-item{
+  padding: 4% 15%;
+}
+.icon
+{
+  width: 15%;
+  margin: 15px;
+}
+em{
+  font-size: 20px;
+}
